@@ -4,6 +4,8 @@ I love working on Open Source projects around the Kubernetes ecosystem. I also e
 
 ![salaboy](https://salaboy.files.wordpress.com/2014/12/img_0008.png)
 
+In the past, I've worked in the field of Business Automation, where I designed and implemented tools related with Business Process Management and Rules/Decision Management. I've also authored books on Workflow engines and extensive documentations about the projects that I've been working on. 
+
 Here are some links if you want to reach out: 
 - [Twitter](http://twitter.com/salaboy)
 - [Blog](http://salaboy.com)
