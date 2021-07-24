@@ -1,6 +1,6 @@
 # Pros & Cons: Helm vs Operators
 
-A simple table with Pros and Cons of using Helm to install components or using specialized Operators.
+A couple of tables comparing Pros and Cons of using Helm or using specialized Operators to install components inside your Kubernetes Cluster.
 
 Using [Helm](http://helm.sh) Charts to install components
 
