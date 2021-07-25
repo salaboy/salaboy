@@ -5,3 +5,4 @@ This is a community-driven collection of knowledge in a format that is easy to s
 PR's and contributions accepted!
 
 - [Helm vs Operators](helm-vs-operators.md)
+- [Kubernetes Environments](kubernetes-env.md)
