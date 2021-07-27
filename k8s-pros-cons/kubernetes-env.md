@@ -1,7 +1,8 @@
 # Pros & Cons Kubernetes Environments
 
+This file contains Pros & Cons for different Kubernertes environments.
 
-## Local
+## Local
 
 | Pros  | Cons |
 | ------------- | ------------- |
@@ -12,9 +13,9 @@
 | Good for running small applications | |
 
 Options: 
-- [Minikube]
-- [KIND]
-- [K3s]
+- [Minikube]()
+- [KIND]()
+- [K3s]()
 
 ## On-Prem
 
@@ -26,8 +27,8 @@ Options:
 | | It might lack features such as specific networking capabilties or special hard drives for storage |
 
 Options: 
-- VMware Tanzu
-- Red Hat OpenShift
+- [VMware Tanzu]()
+- [Red Hat OpenShift]()
 
 
 ## Cloud Provider
@@ -38,12 +39,14 @@ Options:
 | Easy to scale and manage  | Cloud Provider specific expertise required  |
 | You don't need to deal with hardware | Possible vendor lock-in |
 | Other services provided besides Kubernetes | You might need a big credit card |
+| Pay as you go, use free trials | |
 
 Options: 
-- Google Cloud Platform + GKE
-- AWS + EKS
-- Azure + AKS
-- Linode + LKE
+- [Google Cloud Platform + GKE]
+- [AWS + EKS]
+- [Azure + AKS]
+- [Linode + LKE]
 
+[Free trials Here](https://github.com/learnk8s/free-kubernetes) 
 
 
