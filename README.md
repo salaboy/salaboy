@@ -14,7 +14,6 @@ Here are some links if you want to reach out:
 
 ## Some Open Source Initiatives
 
-https://github.com/salaboy/opensource
-https://github.com/salaboy/orchestrating-cloud-events/
-https://github.com/salaboy/from-monolith-to-k8s
-https://github.com/learnk8s/free-kubernetes
+- [https://github.com/salaboy/opensource](https://github.com/salaboy/opensource)
+- [https://github.com/salaboy/from-monolith-to-k8s](https://github.com/salaboy/from-monolith-to-k8s)
+- [https://github.com/learnk8s/free-kubernetes](https://github.com/learnk8s/free-kubernetes)
