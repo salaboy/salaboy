@@ -1,10 +1,15 @@
 # Salaboy - Open Source Knowledge
 
-I love working on Open Source projects around the Kubernetes ecosystem. I also enjoy a lot sharing what I'm learning with others by talking into conferences and going to events. I am currently working for [Diagrid](https://diagrid.io) in the[Dapr](https://dapr.io) project. I am also serving as as Steerign Committee member in the [Knative Project](http://knative.dev) as well as working as the Co-Lead of the [Knative Functions](https://github.com/knative/func) project.  
+I love working on Open Source projects around the Kubernetes ecosystem. I also enjoy sharing what I'm learning with others by talking at conferences and going to events. I am currently working for [Diagrid](https://diagrid.io) in the[Dapr](https://dapr.io) project. 
 
-I am currently writing a book titled [Platform Engineering on Kubernetes](http://mng.bz/jjKP?ref=salaboy.com) for [Manning](https://www.manning.com/). 
-[![Platform_Engineering_on_Kubernetes_9781617299322](https://user-images.githubusercontent.com/271966/232202670-8c2c7007-d454-4860-a499-ac3af5d32690.jpg)](http://mng.bz/jjKP?ref=salaboy.com)
- 
+I am currently also serving as a Steering Committee member in the [Knative Project](http://knative.dev) as well as working as the Co-Lead of the [Knative Functions](https://github.com/knative/func) project.  
+I was elected as a Committee member for the [Keptn project](https://keptn.sh) on Jan 2024.
+
+I published a book titled [Platform Engineering on Kubernetes](http://mng.bz/jjKP?ref=salaboy.com) for [Manning](https://www.manning.com/). 
+![book-cover](https://github.com/salaboy/salaboy/assets/271966/aa066465-cd25-4e31-92d4-0632bbfe1a40)
+
+Check the free tutorials and examples from the book in the [Platforms on Kubernetes](https://github.com/salaboy/platforms-on-k8s/) repository.
+
 Here are some links if you want to reach out: 
 - [Twitter](http://twitter.com/salaboy)
 - [Blog](http://salaboy.com)
