@@ -1,18 +1,21 @@
 # Salaboy - Open Source Knowledge
 
-I love working on Open Source projects around the Kubernetes ecosystem. I also enjoy sharing what I'm learning with others by talking at conferences and going to events. I am currently working for [Diagrid](https://diagrid.io) in the[Dapr](https://dapr.io) project. 
-
-I am currently also serving as a Steering Committee member in the [Knative Project](http://knative.dev) as well as working as the Co-Lead of the [Knative Functions](https://github.com/knative/func) project.  
-I was elected as a Committee member for the [Keptn project](https://keptn.sh) on Jan 2024.
+I enjoy working on Open-Source projects within the Java & Kubernetes ecosystems. I also enjoy sharing what I'm learning with others by talking at conferences and going to events. 
+I am currently working for [Diagrid](https://diagrid.io) in the [Dapr](https://dapr.io) project. 
+I am currently serving as the [Co-Chair of the Developer Experience TAG](https://github.com/cncf/toc/tree/main/tags/tag-developer-experience) (Technical Advisory Group) at the CNCF. 
 
 I published a book titled [Platform Engineering on Kubernetes](http://mng.bz/jjKP?ref=salaboy.com) for [Manning](https://www.manning.com/). 
-![book-cover](https://github.com/salaboy/salaboy/assets/271966/aa066465-cd25-4e31-92d4-0632bbfe1a40)
 
 Check the free tutorials and examples from the book in the [Platforms on Kubernetes](https://github.com/salaboy/platforms-on-k8s/) repository.
 
+I am currently writing a book, titled [Developer Experience on Kubernetes](https://www.manning.com/books/developer-experience-on-kubernetes), with my friend @ThomasVitale for [Manning](https://www.manning.com/). 
+
+
 Here are some links if you want to reach out: 
-- [Twitter](http://twitter.com/salaboy)
-- [Blog](http://salaboy.com)
+- [Twitter](http://x.com/salaboy)
+- [LinkedIn](http://www.linkedin.com/in/salaboy)
+- [Blog](http://www.salaboy.com)
+- [Books](https://www.salaboy.com/books)
 
 Get in touch and let's work together on something amazing! 
 
