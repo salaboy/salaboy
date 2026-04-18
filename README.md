@@ -1,14 +1,10 @@
 # Salaboy - Open Source Knowledge
 
-I enjoy working on Open-Source projects within the Java & Kubernetes ecosystems. I also enjoy sharing what I'm learning with others by talking at conferences and going to events. 
-I am currently working for [Diagrid](https://diagrid.io) in the [Dapr](https://dapr.io) project. 
-I am currently serving as the [Co-Chair of the Developer Experience TAG](https://github.com/cncf/toc/tree/main/tags/tag-developer-experience) (Technical Advisory Group) at the CNCF. 
+Hi, I am Mauricio Salatino, also known as @salaboy, and I am passionate about Open Source, Kubernetes, and Cloud-Native software. I still consider myself a developer at heart. Hence, if you want to code and collaborate, get in touch!
 
-I published a book titled [Platform Engineering on Kubernetes](http://mng.bz/jjKP?ref=salaboy.com) for [Manning](https://www.manning.com/). 
+I am an Open Source & Ecosystem Software Engineer at @Dash0hq. I also serve as a co-chair of the CNCF TAG Developer Experience. I previously worked for VMware and Red Hat as a Principal Software Engineer, building tools to help developers be more productive. I worked at LearnKube as a Kubernetes instructor, delivering training worldwide.
 
-Check the free tutorials and examples from the book in the [Platforms on Kubernetes](https://github.com/salaboy/platforms-on-k8s/) repository.
-
-I am currently writing a book, titled [Developer Experience on Kubernetes](https://www.manning.com/books/developer-experience-on-kubernetes), with my friend @ThomasVitale for [Manning](https://www.manning.com/). 
+I also wrote a book titled Platform Engineering on Kubernetes for Manning. I am currently writing a book titled Developer Experience on Kubernetes with my friend Thomas Vitale.
 
 
 Here are some links if you want to reach out: 
@@ -24,5 +20,7 @@ Get in touch and let's work together on something amazing!
 ## Some Open Source Initiatives
 
 - [https://github.com/salaboy/opensource](https://github.com/salaboy/opensource)
+- [https://github.com/salaboy/skills-oci](https://github.com/salaboy/skills-oci)
 - [https://github.com/salaboy/from-monolith-to-k8s](https://github.com/salaboy/from-monolith-to-k8s)
 - [https://github.com/learnk8s/free-kubernetes](https://github.com/learnk8s/free-kubernetes)
+
