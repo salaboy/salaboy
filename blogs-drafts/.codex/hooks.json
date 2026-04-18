@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/opt/homebrew/Cellar/skills-oci/0.0.10/bin/skills-oci install --plain",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

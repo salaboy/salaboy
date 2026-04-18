@@ -1,0 +1,24 @@
+{
+  "lockfileVersion": 1,
+  "generatedAt": "2026-04-18T15:59:32Z",
+  "skills": [
+    {
+      "name": "salaboy-blog-skill",
+      "path": ".agents/skills/salaboy-blog-skill",
+      "source": {
+        "registry": "docker.io",
+        "repository": "salaboy/salaboy-blog-skill",
+        "tag": "0.0.2",
+        "digest": "sha256:db3510ef83e63c0598c77e8b377455d7e84c45b90a2bee072b5254f5a4ee45c7",
+        "ref": "docker.io/salaboy/salaboy-blog-skill:0.0.2@sha256:db3510ef83e63c0598c77e8b377455d7e84c45b90a2bee072b5254f5a4ee45c7"
+      },
+      "installedAt": "2026-04-18T15:59:32Z",
+      "additionalInstalledPaths": [
+        ".claude/skills/salaboy-blog-skill",
+        ".codex/skills/salaboy-blog-skill",
+        ".cursor/skills/salaboy-blog-skill",
+        ".gemini/skills/salaboy-blog-skill"
+      ]
+    }
+  ]
+}

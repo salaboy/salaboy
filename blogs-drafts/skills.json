@@ -1,0 +1,15 @@
+{
+  "skills": [
+    {
+      "name": "salaboy-blog-skill",
+      "source": "docker.io/salaboy/salaboy-blog-skill",
+      "version": "0.0.2",
+      "additionalBasePaths": [
+        ".claude/skills",
+        ".codex/skills",
+        ".cursor/skills",
+        ".gemini/skills"
+      ]
+    }
+  ]
+}

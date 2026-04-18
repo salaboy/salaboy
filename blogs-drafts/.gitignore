@@ -1,0 +1,7 @@
+
+# Agent skills — fetched via `skills-oci install`, not stored in git
+.agents/skills/
+.claude/skills/
+.codex/skills/
+.cursor/skills/
+.gemini/skills/
